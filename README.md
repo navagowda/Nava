@@ -24,6 +24,6 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
 
 🌈 **"Stay colorful, stay curious!"**  
 ⭐️ From [Nava Gowda A S]  
-📄 [LinkedIn Profile](www.linkedin.com/in/nava-gowda-a-s-0970102b2)  
+📄 [LinkedIn Profile](https://linkedin.com/in/nava-gowda-a-s-0970102b2)  
 📄 [GitHub Profile](https://github.com/navagowda)
 
