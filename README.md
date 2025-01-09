@@ -19,8 +19,8 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
 **Description**: Ordering pizzas online with real-time ordr tarcking.
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navagowda)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nava-gowda-a-s-0970102b2)
 
 🌈 **"Stay colorful, stay curious!"**  
 ⭐️ From [Nava Gowda A S]  
