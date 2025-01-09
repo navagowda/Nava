@@ -17,6 +17,9 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
 ## 📚 Projects
 ### 🔧 [Project 1](Pizza_order.ipynb)
 **Description**: Ordering pizzas online with real-time ordr tarcking.
+### 🔧 [Project 2](Pizza_order.ipynb)
+**Description**: Ordering pizzas online with real-time ordr tarcking.
+
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navagowda)  
