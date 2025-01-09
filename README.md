@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm [Nava]! 🌟
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Colorful+GitHub+Profile)
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
 ## 🎨 About Me
 I am a creative and enthusiastic BCA student passionate about technology and development. My journey in the tech world revolves around learning, building, and sharing projects.
@@ -15,7 +15,7 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ## 📚 Projects
-### 🔧 [Project 1](https://github.com/username/project1)
+### 🔧 [Project 1](https://github.com/navagowda/project1)
 **Description**: Ordering pizzas online with real-time ordr tarcking.
 
 ## 🌐 Connect with Me
