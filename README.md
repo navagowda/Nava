@@ -15,7 +15,7 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ## 📚 Projects
-### 🔧 [Project 1](https://github.com/navagowda/Pizza_order.ipynb)
+### 🔧 [Project 1](Pizza_order.ipynb)
 **Description**: Ordering pizzas online with real-time ordr tarcking.
 
 ## 🌐 Connect with Me
