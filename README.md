@@ -17,7 +17,7 @@ I am a creative and enthusiastic BCA student passionate about technology and dev
 ## 📚 Projects
 ### 🔧 [Project 1](Pizza_order.ipynb)
 **Description**: Ordering pizzas online with real-time ordr tarcking.
-### 🔧 [Project 2](VirtualAssistent.ipynb)
+### 🔧 [Project 2](Virtual_Assistent.ipynb)
 **Description**: A simple virtual assistant project automates basic tasks like answering questions, setting reminders, or providing information through a user-friendly interface.
 
 ## 🌐 Connect with Me
